@@ -117,7 +117,6 @@ Offline digital wallet for storing identification cards locally with a clean and
 
 **Tech Focus:** Android App, Local Storage, UI/UX, App Publishing
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=drobermudo24&repo=digi-i-wallet&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&icon_color=7C3AED" />
 
 </td>
 <td width="50%">
@@ -128,7 +127,7 @@ A futuristic portfolio with modern sections, animations, project showcases, and 
 
 **Tech Focus:** HTML, CSS, JavaScript, React, UI Animation
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=drobermudo24&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&icon_color=7C3AED" />
+
 
 </td>
 </tr>
@@ -142,7 +141,7 @@ A web-based RFID system concept for tracking, dispatching, dashboard monitoring,
 
 **Tech Focus:** Laravel, Database, Dashboard, Scanner Integration
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=drobermudo24&repo=rfid-system&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&icon_color=7C3AED" />
+
 
 </td>
 <td width="50%">
@@ -153,7 +152,20 @@ A lending platform concept with OTP verification, loan request flow, admin appro
 
 **Tech Focus:** Laravel, MySQL, Authentication, Admin Panel
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=drobermudo24&repo=ran-lending&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&icon_color=7C3AED" />
+
+
+</td>
+</tr>
+<tr>
+  
+<td colspan="2" align="center">
+
+### 💸 Bill Reminder Tracker
+
+A bill reminder and payment tracker app concept for monitoring due dates, expenses, payment status, and personal finance reminders.
+
+**Tech Focus:** App System, Payment Tracking, Reminders, Dashboard, Personal Finance
+
 
 </td>
 </tr>
@@ -165,9 +177,6 @@ A lending platform concept with OTP verification, loan request flow, admin appro
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drobermudo24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drobermudo24&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB" />
 
 </div>
 
