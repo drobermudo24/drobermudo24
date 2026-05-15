@@ -272,7 +272,7 @@ while(alive) {
 
 <div align="center">
 
-<a href="mailto:drobermudo@gmail.com">
+<a href="mailto:drobermudo24@gmail.com">
   <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
@@ -280,7 +280,7 @@ while(alive) {
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/alejandro-bermudo-8b7926214/">
   <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
