@@ -1,295 +1,88 @@
-<div align="center">
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0B1120,100:1E293B&text=Alejandro%20Bermudo&fontColor=E2E8F0&fontSize=40&fontAlign=50&fontAlignY=45&desc=Web%20Developer%20%C2%B7%20Philippines&descSize=15&descAlign=50&descAlignY=75" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:111827,50:312E81,75:7C3AED,100:06B6D4&text=ALEJANDRO%20BERMUDO&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Web%20Developer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Digital%20Architect&descSize=18&descAlignY=52&animation=fadeIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-bermudo-8b7926214/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:drobermudo24@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <img src="https://komarev.com/ghpvc/?username=drobermudo24&style=flat-square&color=334155&label=views" />
+</p>
 
-</div>
+---
 
-<div align="center">
+### Hi, I'm Alejandro 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Initializing+Mission+Control...;Building+Systems+That+Solve+Real+Problems;PHP+%E2%80%A2+Laravel+%E2%80%A2+JavaScript+%E2%80%A2+Node.js;From+Idea+to+Launch+%F0%9F%9A%80;Lost+in+Space%2C+Found+in+Code" />
+I build web apps, mostly on the backend side: database design, business logic, admin panels and the boring-but-important parts that make a product actually work.
 
-</div>
+Lately I've been adding AI to the things I build — LLM-powered features inside Laravel and Node apps, small automations, and using AI tools day to day to ship faster without cutting corners.
+
+- 🔭 Currently building a **lending system** and an **RFID tracking dashboard**
+- 🤖 Exploring **LLM APIs, prompt design and AI automation** for real business workflows
+- 🌱 Learning more **React / Next.js** and how to structure larger codebases
+- 💬 Ask me about **Laravel, MySQL, or turning a rough idea into a working app**
 
 <br>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=drobermudo24&style=for-the-badge&color=06b6d4)
-![GitHub followers](https://img.shields.io/github/followers/drobermudo24?style=for-the-badge&color=7c3aed&labelColor=020617)
-![GitHub stars](https://img.shields.io/github/stars/drobermudo24?style=for-the-badge&color=22d3ee&labelColor=020617)
-
-</div>
-
----
-
-## 🧬 Identity Core
-
-```yaml
-name: Alejandro Bermudo
-role: Web Developer
-location: Philippines
-class: Backend-Focused Builder
-status: Always Building
-mindset: Build fast. Improve daily. Launch real things.
-mission:
-  - Turn ideas into working systems
-  - Build apps that solve real-world problems
-  - Create clean, useful, and scalable digital products
-```
-
----
-
-## 🌌 About Me
-
-I am a **Web Developer** who enjoys building practical systems, backend workflows, dashboards, and web apps that are actually useful in the real world.
-
-I like turning raw ideas into working products — from UI concepts, database structure, backend logic, automation, admin panels, and complete web applications.
-
-> I do not just write code.  
-> I build systems that move ideas from imagination to reality.
-
----
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Dimension
-
-![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-020617?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-
-### ⚙️ Backend Core
-
-![PHP](https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-020617?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-
-### 🗄️ Database Vault
-
-![MySQL](https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-020617?style=for-the-badge&logo=mariadb&logoColor=003545)
-
-### 🛠️ Tools / Command Center
-
-![VS Code](https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![WordPress](https://img.shields.io/badge/WordPress-020617?style=for-the-badge&logo=wordpress&logoColor=21759B)
-
-</div>
-
----
-
-## 🛰️ Current Mission
-
-```txt
-[01] Build modern web applications
-[02] Improve backend systems and database workflows
-[03] Create clean dashboards and admin tools
-[04] Explore AI, automation, and futuristic app ideas
-[05] Launch useful products that solve real problems
-```
-
----
-
-## 🚀 Project Launchpad
-
-<div align="center">
-
-### Systems I build from idea → design → database → backend → launch
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🪐 DIGI i Wallet
-
-Offline digital wallet for storing identification cards locally with a clean and secure viewing experience.
-
-**Tech Focus:** Android App, Local Storage, UI/UX, App Publishing
-
-
-</td>
-<td width="50%">
-
-### 🌌 Developer Portfolio
-
-A futuristic portfolio with modern sections, animations, project showcases, and responsive layout.
-
-**Tech Focus:** HTML, CSS, JavaScript, React, UI Animation
-
-
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📡 RFID Management System
-
-A web-based RFID system concept for tracking, dispatching, dashboard monitoring, and scanner integration.
-
-**Tech Focus:** Laravel, Database, Dashboard, Scanner Integration
-
-
-
-</td>
-<td width="50%">
-
-### 💳 RAN Lending System
-
-A lending platform concept with OTP verification, loan request flow, admin approval, and payment confirmation.
-
-**Tech Focus:** Laravel, MySQL, Authentication, Admin Panel
-
-
-
-</td>
-</tr>
-<tr>
-  
-<td colspan="2" align="center">
-
-### 💸 Bill Reminder Tracker
-
-A bill reminder and payment tracker app concept for monitoring due dates, expenses, payment status, and personal finance reminders.
-
-**Tech Focus:** App System, Payment Tracking, Reminders, Dashboard, Personal Finance
-
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Galactic Analytics
-
-<div align="center">
-
-
-</div>
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,mysql&perline=10" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react,nextjs&perline=10" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,androidstudio,postman&perline=10" />
+</p>
+
+| | |
+|---|---|
+| **Backend** | PHP, Laravel, Node.js, REST APIs, auth & OTP flows |
+| **Frontend** | JavaScript, React, Next.js, Tailwind, Bootstrap, jQuery |
+| **Database** | MySQL, MariaDB — schema design, queries, migrations |
+| **AI** | LLM APIs (OpenAI, Claude, Gemini), prompt engineering, AI-assisted coding, chatbot & automation features |
+| **Other** | WordPress, Android (Play Store publishing), Git |
 
 <br>
 
-<div align="center">
+### AI tools I work with
 
-<img src="https://streak-stats.demolab.com?user=drobermudo24&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" />
-
-</div>
-
----
-
-## 🏆 Trophy Room
-
-<div align="center">
-
-### Achievements unlocked across the GitHub universe
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=drobermudo24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
-
-## 🧬 Contribution System
-
-<div align="center">
-
-### Every commit is a signal from the void.
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drobermudo24&bg_color=020617&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-0B1120?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0B1120?style=flat-square&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Gemini-0B1120?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-0B1120?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0B1120?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/LangChain-0B1120?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-0B1120?style=flat-square&logo=n8n&logoColor=EA4B71" />
+</p>
 
 <br>
 
-<div align="center">
+### Projects
 
-<img src="https://raw.githubusercontent.com/drobermudo24/drobermudo24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+| Project | What it does | Built with |
+|---|---|---|
+| **RAN Lending System** | Loan requests with OTP verification, admin approval and payment confirmation | Laravel · MySQL |
+| **RFID Management System** | Tag tracking, dispatching and a live monitoring dashboard with scanner integration | Laravel · MySQL · JS |
+| **DIGI i Wallet** | Offline Android wallet that stores ID cards locally — nothing leaves the phone | Android · Local storage |
+| **Bill Reminder Tracker** | Due-date reminders, payment status and a simple expense overview | Web app · Dashboard |
+| **Portfolio** | Personal site with project showcase and responsive layout | React · CSS |
 
-</div>
+<br>
 
----
+### Activity
 
-## ⚔️ Build System Protocol
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=drobermudo24&theme=transparent&hide_border=true&ring=94A3B8&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=334155" />
+</p>
 
-```txt
-┌──────────────────────────────────────────────┐
-│ SYSTEM STATUS: ACTIVE                        │
-├──────────────────────────────────────────────┤
-│ Mission      : Build real-world systems      │
-│ Mode         : Developer / Builder           │
-│ Focus        : Backend + Product Logic       │
-│ Stack        : PHP / Laravel / JS / MySQL    │
-│ Energy       : Debug. Build. Improve. Launch │
-└──────────────────────────────────────────────┘
-```
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drobermudo24&bg_color=0D1117&color=94A3B8&line=38BDF8&point=E2E8F0&area=true&area_color=38BDF8&hide_border=true&hide_title=true" />
+</p>
 
-<div align="center">
-
-### `Ideas are signals. Code is the weapon. Systems are the result.`
-
-</div>
-
----
-
-## 🧠 Developer Mindset
-
-```txt
-while(alive) {
-  learn();
-  build();
-  debug();
-  improve();
-  launch();
-}
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drobermudo24/drobermudo24/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/drobermudo24/drobermudo24/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-## 🌠 Quote From The Void
-
-<div align="center">
-
-### “Code is my spacecraft. Logic is my fuel. Ideas are my universe.”
-
-</div>
-
----
-
-## 📡 Connect With Me
-
-<div align="center">
-
-<a href="mailto:drobermudo24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://github.com/drobermudo24">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://www.linkedin.com/in/alejandro-bermudo-8b7926214/">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06B6D4,25:7C3AED,50:312E81,75:111827,100:020617&section=footer" />
-
-</div>
+<sub>Open to freelance and full-time web development work — feel free to reach out.</sub>
